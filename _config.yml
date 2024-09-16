@@ -9,10 +9,10 @@ just_the_docs:
     sidebar:
       - title: "Documentation"
         links:
-          - title: "Getting Started"
-            url: /getting-started/
-          - title: "API Reference"
-            url: /api-reference/
+          #- title: "Getting Started"
+          #  url: /getting-started/
+          #- title: "API Reference"
+          #  url: /api-reference/
   search_enabled: true
   search:
     layout: default
