@@ -4,3 +4,12 @@ description:
 just_the_docs:
   custom_css:
     - assets/css/custom.css
+  # Set the navigation structure
+  collections:
+    sidebar:
+      - title: "Documentation"
+        links:
+          - title: "Getting Started"
+            url: /getting-started/
+          - title: "API Reference"
+            url: /api-reference/
