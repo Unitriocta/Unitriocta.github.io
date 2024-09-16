@@ -1,3 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 title: Shipwreck Engine 3D Documentation
 description: 
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
