@@ -13,3 +13,6 @@ just_the_docs:
             url: /getting-started/
           - title: "API Reference"
             url: /api-reference/
+  search_enabled: true
+  search:
+    layout: default
